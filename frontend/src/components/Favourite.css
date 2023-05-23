@@ -1,0 +1,30 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+.Favourite_div{
+	height:auto;
+	width:100%;
+	background:#AEAEAE;
+	display:block;
+}
+.FavImg{
+	margin-left:1rem;
+	position:realtive;
+	height:100px;
+	width:100px;
+	border-radius:50%;
+}
+.clear{
+	position:absolute;
+	height:1.3rem;
+	width:1.3rem;
+	border-radius:50%;
+	background:transparent;
+	border:none;
+}
+ fa-window-close{
+	height:1.3rem;
+	width:1.3rem;
+ }
